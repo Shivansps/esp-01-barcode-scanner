@@ -18,5 +18,8 @@ The barcode can be displayed on screen and/or be uploaded via HTTP POST to a rem
 ![](https://i.imgur.com/th3fjP8.png)
 
 ## Working
+![](https://i.imgur.com/IH4puqW.jpg)
+![](https://i.imgur.com/3AeeoM9.jpg)
+![](https://i.imgur.com/EWxCUFZ.jpg)
 ![](https://i.imgur.com/rNPBNdv.jpg)
 ![](https://i.imgur.com/senVqkW.jpg)
